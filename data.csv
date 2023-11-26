@@ -1,0 +1,5 @@
+Apple,1,Item_Apple_Name,Item_Apple_Description,0,{fileID: 0},100,50
+Lemon,2,Item_Lemon_Name,Item_Lemon_Description,0,{fileID: 0},100,50
+Herb,3,Item_Herb_Name,Item_Herb_Description,0,{fileID: 0},150,75
+Poisonous_Grass,4,Item_Poisonous_Grass_Name,Item_Poisonous_Grass_Description,0,{fileID: 0},180,90
+Poisonous_Mushroom,5,Item_Poisonous_Mushroom_Name,Item_Poisonous_Mushroom_Description,0,{fileID: 0},0,10
